@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Best of Kotlin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="error_message">Oops!! :(</string>
+    <string name="ok">Ok</string>
+</resources>
